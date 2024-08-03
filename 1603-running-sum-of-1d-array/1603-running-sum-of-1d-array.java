@@ -3,10 +3,12 @@ class Solution {
         int[] num = new int[nums.length];
 
         for(int i = 0; i < nums.length; i++) {
-            for(int j = 0; j <= i; j++) {
-                num[i] += nums[j];
+                if(i > 0) {
+                    num[i] = nums[i] + num[i-1];
+                } else {
+                    num[i] = nums[i];
+                }
             }
-        }
         return num;
     }
 }

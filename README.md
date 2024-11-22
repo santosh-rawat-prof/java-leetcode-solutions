@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/santosh-rawat-prof/java-leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/santosh-rawat-prof/java-leetcode-solutions/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/santosh-rawat-prof/java-leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/santosh-rawat-prof/java-leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/santosh-rawat-prof/java-leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/santosh-rawat-prof/java-leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/santosh-rawat-prof/java-leetcode-solutions/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/santosh-rawat-prof/java-leetcode-solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
